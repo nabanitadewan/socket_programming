@@ -1,2 +1,2 @@
 # socket_programming
-server side socket programming
+python scripts for socket programming
